@@ -11,8 +11,8 @@ const mahmud = [
     "জানু",
     "বেবি",
     "wifey",
-    "hina",
-    "hinata",
+    "Sizu",
+    "Sizuka",
 ];
 
 const baseApiUrl = async () => {
